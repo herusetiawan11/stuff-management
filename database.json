@@ -1,0 +1,22 @@
+{
+  "stuff": [
+    {
+      "id": "e8b4",
+      "name": "mimi",
+      "price": "200",
+      "category": "Furniture"
+    },
+    {
+      "id": "ceee",
+      "name": "kiting",
+      "price": "168",
+      "category": "Electronic"
+    },
+    {
+      "id": "dbf5",
+      "name": "kitchen",
+      "price": "170",
+      "category": "Electronic"
+    }
+  ]
+}
